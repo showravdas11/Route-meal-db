@@ -1,0 +1,8 @@
+.input-box{
+    width: 50%;
+    padding: 10px;
+    
+}
+.input-box:hover{
+    border: 2px solid black;
+}

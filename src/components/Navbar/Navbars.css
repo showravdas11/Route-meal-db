@@ -1,0 +1,11 @@
+.nav-bg{
+    background-color: rgb(0, 0, 0);
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+}
+.item{
+    color: rgb(94, 221, 136);
+    text-decoration: none;
+    font-size: 20px;
+}
